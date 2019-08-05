@@ -149,6 +149,3 @@ deckOfCardsWithJokers = [clbAce, diaAce, spdAce, hrtAce,
                          clbQue, diaQue, spdQue, hrtQue,
                          clbKng, diaKng, spdKng, hrtKng,
                          blkJok, redJok]
-
-print("go")
-myDeck = Deck(deckOfCards)
